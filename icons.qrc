@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/film-editing.png</file>
+    <file>icons/Google-Noto-Emoji-Symbols-73028-warning.ico</file>
+    <file>icons/search.png</file>
+    <file>icons/chapter.png</file>
+    <file>icons/add-video.png</file>
+    <file>icons/Designbolts-Free-Multimedia-Film.ico</file>
+    <file>icons/Custom-Icon-Design-Flatastic-1-Information.ico</file>
+    <file>icons/info.png</file>
+    <file>icons/Papirus-Team-Papirus-Apps-Github.ico</file>
+  </qresource>
+</RCC>
